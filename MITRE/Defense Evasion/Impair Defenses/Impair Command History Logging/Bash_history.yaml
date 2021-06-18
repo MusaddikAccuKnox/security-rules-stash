@@ -9,8 +9,6 @@ spec:
           hostname: xyz
   process: 
           matchPaths: 
-        - path: <any path>
-          onDirectory: 
           - path: ~/.bash_history
   action:
     Audit

@@ -9,6 +9,6 @@ spec:
   process:
     matchPaths:
     - path: /usr/bin/certutil
-  severity: 5
+  severity: 3
   action:
     Audit
